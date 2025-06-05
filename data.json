@@ -1,0 +1,110 @@
+{
+  "about": {
+    "name": "Mira Yun",
+    "title": "Professor of the Practice",
+    "photo": "https://cdn.glitch.global/8cebe244-1466-4c68-ad3c-275e424b1cd8/mira.jpg?v=1692155197683",
+    "department": "Department of Computer Science",
+    "university": "Boston College",
+    "address": "Chestnut Hill, MA 02467",
+    "phone": "(617)522-3686",
+    "email": "mira.yun@bc.edu",
+    "url": "http://cs.bc.edu/~yunmd",
+    "bio": "Dr. Mira Yun is a Professor of the Practice in the Department of Computer Science at Boston College since January 2023. She was a Professor of Computer Science and Networking at Wentworth Institute of Technology in Boston from 2011 to 2022. Her research interests include CS for ALL (K-12 CS Education), undergraduate research, resource management in wireless networks, modeling and analysis of network traffic, protocol design and analysis, and network security. Dr. Yun has 55+ co-authored peer-reviewed publications on wireless networks and CS education."
+  },
+  "news": [
+    {
+      "title": "Teaching CSCI2254 and CSCI1101",
+      "date": "Fall 2023"
+    },
+    {
+      "title": "Teaching CSCI2271 and CSCI3390",
+      "date": "Spring 2023"
+    },
+    {
+      "title": "Presenting 2 papers @ HICE 2023",
+      "date": "Jan 2023"
+    },
+    {
+      "title": "Joining BC",
+      "date": "Jan 2023"
+    }
+  ],
+  "projects": [
+    {
+      "id": "playfulcs",
+      "title": "Playful CS for Girl Scout Juniors",
+      "description": "I launched two CS workshops for young girls in fourth and fifth grade as part of a larger Girl Scouts of America initiative. These workshops embrace playfulness as a fundamental design constraint to ensure an early positive association with STEM concepts. Students are exposed to basic coding skills through simple robots that are programmed to play games. Survey results show that these workshops lead to a stronger interest in CS for the participants.",
+      "materials": [
+        {
+          "label": "Paper",
+          "path": "http://cs.bc.edu/~yunmd/pdfs/EDUCON2020.pdf"
+        },
+        {
+          "label": "Photo",
+          "path": "https://cdn.glitch.global/8cebe244-1466-4c68-ad3c-275e424b1cd8/girlscout.png?v=1692563652659"
+        },
+        {
+          "label": "FirstPage",
+          "path": "https://cdn.glitch.global/8cebe244-1466-4c68-ad3c-275e424b1cd8/EDUCON2020.png?v=1692570363420"
+        }
+      ]
+    },
+    {
+      "id": "coaches",
+      "title": "Undergraduate Coaches for Young Learners with Playful CS",
+      "description": "Growing interest in CS has led to a shortage of qualified educators for K-12 level instruction. Many out-of-school-time computing programs are led by well-intentioned individuals with little formal training in education such as undergraduate students pursuing computing degrees. This results in environments that are often not conducive to learning for students coming from diverse cultural and educational backgrounds. I addressed some of these challenges by using undergraduates as coaches in K-12 outreach CS activities for underrepresented students. These coaches are given essential pedagogical training with playful material that allows them to succeed as educators.",
+      "materials": [
+        {
+          "label": "Paper",
+          "path": "http://cs.bc.edu/~yunmd/pdfs/FECS21.pdf"
+        },
+        {
+          "label": "Video",
+          "path": "https://cdn.glitch.me/8cebe244-1466-4c68-ad3c-275e424b1cd8/Hurley.mp4?v=1692578558746"
+        },
+        {
+          "label": "FirstPage",
+          "path": "https://cdn.glitch.global/8cebe244-1466-4c68-ad3c-275e424b1cd8/FECS21.png?v=1692578164920"
+        }
+      ]
+    },
+    {
+      "id": "mBSplacement",
+      "title": "Efficient Mobile Base Station Placement for First Responders",
+      "description": "I developed two mobile station placement algorithms to meet the critical communication requirements of first responders in an ad hoc public safety network. By considering the class of first responders and user equipment applications, I provide an efficient base station placement algorithm to maximize critical communication needs according to priority levels.",
+      "materials": [
+        {
+          "label": "Paper",
+          "path": "http://cs.bc.edu/~yunmd/pdfs/FICC2019.pdf"
+        },
+        {
+          "label": "Photo",
+          "path": "https://cdn.glitch.global/8cebe244-1466-4c68-ad3c-275e424b1cd8/project3.gif?v=1692594646976"
+        },
+        {
+          "label": "FirstPage",
+          "path": "https://cdn.glitch.global/8cebe244-1466-4c68-ad3c-275e424b1cd8/FICC2019.png?v=1692594694186"
+        }
+      ]
+    },
+    {
+      "id": "classmBS",
+      "title": "Dynamic placement Algorithm for Multiple Classes of Mobile Base Station",
+      "description": "I defined different classes of mobile base stations that have varying performance characteristics and devised three different first responders mobility models. My proposed algorithm applies the modern clustering technique to deal with the characteristics of different kinds of mobile base stations.",
+      "materials": [
+        {
+          "label": "Paper",
+          "path": "http://cs.bc.edu/~yunmd/pdfs/CROWNCOM2019.pdf"
+        },
+        {
+          "label": "Photo",
+          "path": "https://cdn.glitch.global/8cebe244-1466-4c68-ad3c-275e424b1cd8/projectg4.gif?v=1692594650149"
+        },
+        {
+          "label": "FirstPage",
+          "path": "https://cdn.glitch.global/8cebe244-1466-4c68-ad3c-275e424b1cd8/CROWNCOM2019.png?v=1692594635041"
+        }
+      ]
+    }
+  ]
+}
